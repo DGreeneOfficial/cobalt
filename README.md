@@ -1,7 +1,7 @@
 <div align="center">
     <br/>
     <p>
-        <img src="web/static/favicon.png" title="cobalt" alt="cobalt logo" width="100" />
+        <<img width="321" height="143" alt="{7D1F1BE3-D57C-4057-9843-DCB8ABC6011D}" src="https://github.com/user-attachments/assets/cfb53ae8-568a-429a-98a8-f388750b0996" />
     </p>
     <p>
         best way to save what you love
