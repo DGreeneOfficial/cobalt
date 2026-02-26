@@ -25,7 +25,7 @@
     <br/>
 </div>
 
-CA : ANLncJZjaKF16Zjg9Ak5skmRe9LLLRXtGHoKQMsJBAGS
+CA : 
 
 cobalt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.
 
